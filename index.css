@@ -1,0 +1,8 @@
+body {
+  border: 10px solid grey;
+  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  margin: 2rem auto;
+  padding-bottom: 2rem;
+  text-align: center;
+  width: 500px;
+}
